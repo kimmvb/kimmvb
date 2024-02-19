@@ -1,7 +1,7 @@
 # 💫 About Me:
-¡Hola, soy Kimberly! 👋<br><br>Actualmente, soy estudiante de desarrollo front-end en Laboratoria 💛.<br><br>Algunos de mis intereses son:<br><br>- Desarrollo web responsivo y diseño centrado en el usuario.<br>- Creación de sitios web atractivos con HTML, CSS y JavaScript.<br>- Exploración de las últimas tendencias en diseño y desarrollo front-end.<br><br>Creo que una de las habilidades más imoprtantes en un desarrollador son: *comunicación, autoaprendizaje y trabajo en equipo* 💪🏻.<br><br>
+¡Hola, soy Kimberly! 👋<br><br>Soy una desarrolladora front-end, recién graduada de Laboratoria 💛.<br><br>Algunos de mis intereses son:<br><br>- Desarrollo web responsivo y diseño centrado en el usuario.<br>- Creación de sitios web atractivos con HTML, CSS y JavaScript.<br>- Exploración de las últimas tendencias en diseño y desarrollo front-end.<br><br>Creo que una de las habilidades más imoprtantes en un desarrollador son: *comunicación, autoaprendizaje y trabajo en equipo* 💪🏻.<br><br>
 
->  Actualmente estoy trabajando y aprendiendo sobre React y TypeScript 👩🏻‍💻. El último proyecto que finalicé fue "80's Fever" 🕺🏻
+>  Actualmente estoy aprendiendo Java 👩🏻‍💻. El último proyecto que finalicé fue "Guess The Number" 👾
 
 <br>¡Gracias por visitar mi perfil de GitHub! Siéntete libre de conectarte conmigo para charlar sobre desarrollo front-end, colaborar en proyectos o simplemente decir hola.<br><br>📫 [Correo Electrónico](kimveb1@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kimberly-velezb/) 
 
